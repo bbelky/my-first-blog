@@ -25,7 +25,7 @@ SECRET_KEY = '9z_s^9+z($&m0qvg-5_7$%qm-h&iaz-hz%m9v@@-m=&vo*(a&l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ('bbelky.pythonanywhere.com/', )
 
 
 # Application definition
